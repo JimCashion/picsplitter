@@ -1,0 +1,10 @@
+c:\jim\picsplitter\picsplitter\bin\Debug\picsplitter.exe.config
+c:\jim\picsplitter\picsplitter\bin\Debug\picsplitter.exe
+c:\jim\picsplitter\picsplitter\bin\Debug\picsplitter.pdb
+c:\jim\picsplitter\picsplitter\obj\Debug\picsplitter.csprojResolveAssemblyReference.cache
+c:\jim\picsplitter\picsplitter\obj\Debug\picsplitter.Form1.resources
+c:\jim\picsplitter\picsplitter\obj\Debug\picsplitter.Properties.Resources.resources
+c:\jim\picsplitter\picsplitter\obj\Debug\picsplitter.csproj.GenerateResource.Cache
+c:\jim\picsplitter\picsplitter\obj\Debug\picsplitter.csproj.CoreCompileInputs.cache
+c:\jim\picsplitter\picsplitter\obj\Debug\picsplitter.exe
+c:\jim\picsplitter\picsplitter\obj\Debug\picsplitter.pdb
